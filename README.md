@@ -13,6 +13,6 @@ To get started with this project, you'll need to compile and run a few Java file
     - `ImageIterator.java`: This file provides an iterator for traversing the image.
     - `Direction.java`: This file defines the directions in which the iterator can move.
 
-2. **Run the Example:** Once you've compiled the Java files, run the provided `P2.java` file. This file contains a small example that demonstrates how to use the classes implemented in this project.
+2. **Run the Example:** Once you've compiled the Java files, run the provided `Main.java` file. This file contains a small example that demonstrates how to use the classes implemented in this project.
 
 I hope you enjoy exploring and using Image_Linked_List! Happy coding! 🚀
